@@ -14,8 +14,8 @@ https://github.com/cwsjoker/Cnode-vue-spa
 
 ## 运行安装
 
-npm install
-npm start
+- npm install
+- npm start
 
 ## 图片
 ![v2ex的vue小试项目](https://github.com/dabpop139/v2ex_vue/blob/master/screenshot/wifi0s0-1823416679.png)
