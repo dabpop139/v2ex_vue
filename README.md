@@ -19,7 +19,7 @@ https://github.com/cwsjoker/Cnode-vue-spa
 - npm start
 
 ## 学习交流讨论群
-QQ群：571107753
+**QQ群：571107753**
 
 ## 图片
 ![v2ex的vue小试项目](https://github.com/dabpop139/v2ex_vue/blob/master/screenshot/wifi0s0-1823416679.png)
